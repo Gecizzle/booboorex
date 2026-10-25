@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://booboorex.com/sitemap.xml
